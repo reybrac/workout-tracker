@@ -44,6 +44,7 @@ This application is covered under the MIT license.
 ## Questions:
 
 Github repository:
+
 https://github.com/reybrac/workout-tracker
 
 Reach me at reybrac@yahoo.com for additional questions
