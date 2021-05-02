@@ -19,6 +19,7 @@ An app for a user to log multiple exercises in a workout on a given day.
 ## Installation instructions:
 
 Click on the site link and follow the steps to enter the information.
+https://rey-bracworkout-tracker.herokuapp.com/stats
 
 Screenshots of the deployed site:
 ![screenshot of working application](https://github.com/reybrac/workout-tracker/blob/main/public/images/Workout-tracker1.JPG?raw=true)
@@ -42,6 +43,7 @@ This application is covered under the MIT license.
 
 ## Questions:
 
-https://www.github.com/reybrac
+Github repository:
+https://github.com/reybrac/workout-tracker
 
 Reach me at reybrac@yahoo.com for additional questions
