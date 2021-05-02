@@ -14,7 +14,7 @@
 
 ## Project description:
 
-An app for a user to log multiple exercises in a workout on a given day.
+An app for a user to log multiple exercises in a workout on a given day. The user can view a graph of the last 7 exercises they have logged.
 
 ## Installation instructions:
 
@@ -28,7 +28,7 @@ Screenshots of the deployed site:
 
 ## Usage information:
 
-A user can use this site to track their fitness goal
+A user can use this site to track their fitness goals. They can record cardio or strength training activities. The user can click on the Dashboard and take a look at their progress.
 
 ## Contribution guidelines:
 
